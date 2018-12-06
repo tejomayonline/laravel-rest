@@ -23,5 +23,3 @@ What is RestModel ? It is a laravel based package that can expose api for any mo
 >- now from your console type `composer dump-autoload` or
   > `composer dump-autoload -o` for autloading composer vendor and classes.
 >- its all set .
->- If you faced any problem regarding this package feel free to mail me
-       - tejomay@novatree.com/tejomaysaha@outlook.com
